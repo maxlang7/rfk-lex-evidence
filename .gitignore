@@ -1,0 +1,15 @@
+source.*
+*.mp3
+*.wav
+.venv/
+__pycache__/
+video-info.json
+response-*.json
+minute-response-*.json
+minute-*.json
+transcript-*.json
+chunk-*.mp3
+opening-check.json
+research/
+transcript-original.py
+transcribe-original.py

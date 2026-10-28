@@ -1,0 +1,333 @@
+{
+  "sources": [
+    {
+      "id": "rotarix",
+      "title": "Ruiz-Palacios et al., NEJM, 2006",
+      "url": "https://doi.org/10.1056/NEJMoa052434",
+      "kind": "Randomized trial",
+      "note": "63,225 infants; randomized, double-blind, placebo-controlled safety and efficacy study. Manufacturer involvement warrants scrutiny, but does not erase the randomized comparison."
+    },
+    {
+      "id": "fda",
+      "title": "FDA Rotarix prescribing information, sections 5.5 and 6.1",
+      "url": "https://www.fda.gov/media/75726/download",
+      "kind": "Regulatory record",
+      "note": "Documents pre-licensure safety testing and postmarketing intussusception findings. The PDF is a historical label, not current prescribing advice."
+    },
+    {
+      "id": "rotarisk",
+      "title": "Yih et al., NEJM, 2014",
+      "url": "https://doi.org/10.1056/NEJMoa1303164",
+      "kind": "Postmarketing study",
+      "note": "US infant data identified a small excess intussusception risk after rotavirus vaccination. Large population surveillance can detect risks missed by trials."
+    },
+    {
+      "id": "mogensen",
+      "title": "Mogensen et al., EBioMedicine, 2017",
+      "url": "https://doi.org/10.1016/j.ebiom.2017.01.041",
+      "kind": "Observational study",
+      "note": "Historical Guinea-Bissau natural experiment; overall HR 5.00; female subgroup HR 9.98 with a very wide interval. This is evidence supporting concern, not a randomized demonstration of harm."
+    },
+    {
+      "id": "higgins",
+      "title": "Higgins et al., BMJ, 2016",
+      "url": "https://www.bmj.com/content/355/bmj.i5170",
+      "kind": "Systematic review",
+      "note": "DTP mortality RR 1.38, 95% CI 0.92 to 2.08, from 10 studies assessed as high risk of bias. Predates the 2017 paper; it is context, not a review of that later paper."
+    },
+    {
+      "id": "who",
+      "title": "WHO SAGE meeting report, April 2014",
+      "url": "https://cdn.who.int/media/docs/default-source/immunization/sage/2014/april/apr2014wer8921.pdf?sfvrsn=83c7d7b1_3",
+      "kind": "Expert evidence review",
+      "note": "Found insufficient evidence to change vaccination policy on nonspecific effects; encouraged better research. Also predates the 2017 study."
+    },
+    {
+      "id": "engels",
+      "title": "Engels et al., JNCI, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12671021/",
+      "kind": "Population cohort",
+      "note": "Danish cancer registry analysis, 69.5 million person-years; no increase in overall cancer incidence associated with historical contaminated-vaccine birth cohorts. Exposure inferred from birth year."
+    },
+    {
+      "id": "iarc",
+      "title": "IARC Monographs, volume 104, SV40 evaluation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK294242/",
+      "kind": "Carcinogenicity review",
+      "note": "Sufficient animal evidence, inadequate human evidence; Group 3. Reviews conflicting tumor-PCR results and contamination concerns. Group 3 does not mean proven harmless."
+    },
+    {
+      "id": "iom",
+      "title": "Institute of Medicine, SV40 contamination review, 2002",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK221118/",
+      "kind": "Evidence review",
+      "note": "Explains that roughly 98 million people received polio vaccine during the relevant period; an estimated 10% to 30% were exposed to live SV40. Historical uncertainties remain."
+    },
+    {
+      "id": "cdc",
+      "title": "CDC historical vaccine concerns",
+      "url": "https://www.cdc.gov/vaccine-safety/historical-concerns/",
+      "kind": "Public health history",
+      "note": "Acknowledges SV40 contamination in 1955 to 1963 and subsequent lot-testing requirements. Historical harm deserves direct acknowledgment."
+    },
+    {
+      "id": "greco",
+      "title": "Greco et al., NEJM, 1996",
+      "url": "https://doi.org/10.1056/NEJM199602083340601",
+      "kind": "Randomized trial",
+      "note": "Whole-cell DTP caused more local and systemic reactions than acellular formulations; the control received DT, not saline. Product-specific efficacy varied."
+    },
+    {
+      "id": "gustafsson",
+      "title": "Gustafsson et al., NEJM, 1996",
+      "url": "https://doi.org/10.1056/NEJM199602083340602",
+      "kind": "Randomized trial",
+      "note": "9,829 infants; more fever, prolonged crying and hypotonic episodes with whole-cell vaccine. Illustrates why formulation and adverse-event definitions matter."
+    },
+    {
+      "id": "polio",
+      "title": "Francis and Korns, 1955 field-trial report",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14376387/",
+      "kind": "Original trial report",
+      "note": "Primary report of the 1954 Salk trial. The historical placebo was a vaccine-like culture-medium preparation; calling it simply saline loses an important detail."
+    },
+    {
+      "id": "umich",
+      "title": "University of Michigan, 1955 trial announcement",
+      "url": "https://sph.umich.edu/polio/",
+      "kind": "Institutional archive",
+      "note": "Contemporaneous trial announcement, including safety conclusions. Does not establish that every later formulation or manufacturing lot was safe."
+    },
+    {
+      "id": "e10",
+      "title": "FDA / ICH E10, choice of control group",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e10-choice-control-group-and-related-issues-clinical-trials",
+      "kind": "Trial-design guidance",
+      "note": "Discusses placebo, active-treatment and other controls. The appropriate comparison depends on the scientific question and ethics."
+    },
+    {
+      "id": "law",
+      "title": "Bruesewitz v. Wyeth, 562 US 223, 2011",
+      "url": "https://www.govinfo.gov/app/details/USREPORTS-562/USREPORTS-562-223",
+      "kind": "Supreme Court opinion",
+      "note": "Concerns vaccine design-defect liability and statutory interpretation, not a clinical estimate of vaccine risk. The Court divided over the scope of preemption."
+    },
+    {
+      "id": "statute",
+      "title": "42 USC 300aa-22, manufacturer responsibility",
+      "url": "https://www.law.cornell.edu/uscode/text/42/300aa-22",
+      "kind": "Statutory text",
+      "note": "The legal rule distinguishes unavoidable side effects, manufacturing and warnings; it is not a statement that every vaccine causes net harm."
+    },
+    {
+      "id": "foia",
+      "title": "ICAN v. HHS, July 2018 stipulated order",
+      "url": "https://childrenshealthdefense.org/wp-content/uploads/rfk-hhs-stipulated-order-july-2018.pdf",
+      "kind": "Court filing",
+      "note": "The request concerned biennial reports to Congress under 42 USC 300aa-27(c), rather than a search for every clinical trial. Hosted by an advocacy organization; inspect the filing itself."
+    },
+    {
+      "id": "hviid",
+      "title": "Hviid et al., JAMA, 2003",
+      "url": "https://doi.org/10.1001/jama.290.13.1763",
+      "kind": "Population cohort",
+      "note": "467,450 children; compared thimerosal-containing and thimerosal-free versions of the same vaccine, with no association with autism or dose-response signal. Observational, not randomized."
+    },
+    {
+      "id": "cioms",
+      "title": "CIOMS / WHO, guideline 5, choice of control",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614415/",
+      "kind": "Research ethics guidance",
+      "note": "Explains when placebo is justified and why withholding an established effective intervention can be unethical."
+    }
+  ],
+  "claims": [
+    {
+      "id": "safe",
+      "time": 19,
+      "title": "Can any vaccine be safe and effective?",
+      "verdict": "Misleading",
+      "summary": "Safety means a favorable, specified benefit-risk balance. It never means zero possible harm.",
+      "said": "Kennedy first allows that some live-virus vaccines probably prevent more problems than they cause, then rejects the broad safe-and-effective description.",
+      "fair": "He is right that a product can prevent its target disease yet cause other harms. A fair evaluation must count both.",
+      "analysis": "The categorical rejection sets an impossible standard if safe means risk-free. The rotavirus trial showed a large reduction in severe disease while actively assessing adverse events. Later detection of a rare harm refines the balance; it does not erase the measured benefit.",
+      "limits": "A result for one vaccine, population and endpoint cannot establish safety for every vaccine or person. This review does not offer a universal ranking of vaccines.",
+      "refs": [
+        "rotarix",
+        "rotarisk",
+        "fda"
+      ]
+    },
+    {
+      "id": "sv40-exposure",
+      "time": 38,
+      "title": "SV40 contamination really happened",
+      "verdict": "Partly supported",
+      "summary": "The contamination is historical fact. The claim that all 98 million vaccine recipients received SV40 overstates the exposure estimate.",
+      "said": "He links historical polio vaccination to SV40 exposure in his generation.",
+      "fair": "Monkey-kidney cultures contaminated some early polio vaccines. This was a real manufacturing failure, followed by new testing requirements.",
+      "analysis": "The IOM account distinguishes roughly 98 million people vaccinated during the period from the estimated 10% to 30% exposed to live SV40. Vaccine receipt and confirmed contaminated-dose exposure are different quantities.",
+      "limits": "Contamination estimates are retrospective and uncertain. Modern polio products should not be treated as the same exposure as contaminated 1950s lots.",
+      "refs": [
+        "iom",
+        "cdc"
+      ]
+    },
+    {
+      "id": "sv40-cancer",
+      "time": 38,
+      "title": "Did SV40 cause a human cancer epidemic?",
+      "verdict": "Not established",
+      "summary": "Animal carcinogenicity is real. The proposed large human cancer toll is not supported by the cited epidemiology.",
+      "said": "He describes SV40 as extremely carcinogenic and connects contamination to later cancers, while saying he does not know whether the vaccine caused more deaths than it prevented.",
+      "fair": "SV40 can cause tumors in experimental animals. Early positive findings in human tumor samples were a legitimate reason to investigate.",
+      "analysis": "IARC found inadequate human evidence and classified SV40 as Group 3. A Danish registry study with 69.5 million person-years did not find increased overall cancer incidence in the exposed birth cohorts. A rise in cancer over time alone cannot identify a vaccine cause.",
+      "limits": "Birth-cohort exposure proxies can misclassify individuals. Null overall results cannot exclude every small, rare, site-specific effect. Group 3 is uncertainty, not proof of harmlessness.",
+      "refs": [
+        "iarc",
+        "engels",
+        "iom"
+      ]
+    },
+    {
+      "id": "dtp-formulation",
+      "time": 137,
+      "title": "Whole-cell DTP had more reactions",
+      "verdict": "Partly supported",
+      "summary": "The formulation distinction matters: whole-cell DTP and acellular DTaP are different products.",
+      "said": "He says DTP was withdrawn in the US and Europe because it injured children, and links that history to its use in Africa.",
+      "fair": "Randomized trials found more fever, local reactions and prolonged crying with whole-cell vaccines than with acellular alternatives. Reducing reactogenicity is a legitimate goal.",
+      "analysis": "The 1996 trials document a safety advantage for acellular formulations, alongside variable efficacy. That supports a narrower claim about adverse reactions. It does not establish that whole-cell DTP destroys immunity or that all European countries followed one identical policy.",
+      "limits": "These trials do not resolve long-term nonspecific mortality. This review has not verified his numbers about African recipients or his account of Reagan-era conversations. Those claims remain unverified here.",
+      "refs": [
+        "greco",
+        "gustafsson"
+      ]
+    },
+    {
+      "id": "legal",
+      "time": 150,
+      "title": "Does the law declare vaccines unsafe?",
+      "verdict": "Misleading",
+      "summary": "A liability rule cannot tell us the probability or balance of clinical harm.",
+      "said": "He invokes the 1986 law and Bruesewitz to argue that vaccines cannot be made safe.",
+      "fair": "Vaccine injuries occur, and the law provides a compensation framework while limiting some manufacturer liability. The tradeoff is open to policy criticism.",
+      "analysis": "Bruesewitz interprets preemption of design-defect lawsuits. The phrase about unavoidable side effects does not establish that every vaccine is more harmful than beneficial. Read the statutory language alongside the divided judicial opinions.",
+      "limits": "This is a distinction between a legal category and a scientific conclusion, not advice about bringing a legal claim. The reported Reagan dialogue is not independently verified here.",
+      "refs": [
+        "law",
+        "statute"
+      ]
+    },
+    {
+      "id": "dtp-mortality",
+      "time": 240,
+      "title": "The tenfold mortality result",
+      "verdict": "Uncertain causal claim",
+      "summary": "There is a real study behind the number. Kennedy presents a fragile subgroup estimate as a settled general effect.",
+      "said": "He says girls given DTP were ten times more likely to die and argues that the vaccine killed more children than the diseases it prevented.",
+      "fair": "The 2017 study reports higher mortality after DTP. Its authors use vaccination opportunities tied to birthdays and weighing visits as a natural experiment, arguing this reduces selection bias. That is a substantive design argument worth evaluating.",
+      "analysis": "For girls, the estimated hazard ratio was 9.98, with a 95% interval of 0.81 to 123: four vaccinated deaths versus one not-yet-vaccinated death over unequal follow-up. Overall HR was 5.00, interval 1.53 to 16.3. The underlying data are from 1981 to 1983, not 30 years of follow-up. Association alone cannot establish net deaths caused.",
+      "limits": "The overall association should not be dismissed because the subgroup is imprecise. Remaining confounding, vaccination records, oral-polio coadministration and setting affect interpretation. The 2016 review found high risk of bias and an inconclusive pooled association; it predates this study.",
+      "refs": [
+        "mogensen",
+        "higgins",
+        "who"
+      ]
+    },
+    {
+      "id": "immune",
+      "time": 270,
+      "title": "Did DTP ruin the children's immune systems?",
+      "verdict": "Not established",
+      "summary": "The mortality association does not demonstrate the biological mechanism he describes.",
+      "said": "He interprets deaths from other infections as evidence that DTP damaged immunity.",
+      "fair": "Nonspecific vaccine effects are a legitimate research topic. All-cause outcomes can reveal effects missed by disease-specific endpoints.",
+      "analysis": "A mortality comparison alone cannot show immune destruction. Establishing that explanation would require direct mechanistic evidence linked to clinical outcomes, as well as a credible causal estimate. WHO reviews recognized uncertainty about both beneficial and harmful nonspecific effects.",
+      "limits": "The lack of a demonstrated mechanism does not make an adverse effect impossible. It means this particular explanation goes beyond what the study measured.",
+      "refs": [
+        "mogensen",
+        "higgins",
+        "who"
+      ]
+    },
+    {
+      "id": "placebo",
+      "time": 315,
+      "title": "No vaccine gets placebo-controlled safety testing?",
+      "verdict": "Contradicted",
+      "summary": "One clear counterexample defeats this universal claim. Rotarix is one.",
+      "said": "He says none of the childhood vaccines underwent placebo-controlled testing before licensure, then distinguishes safety from efficacy.",
+      "fair": "Comparator ingredients, follow-up duration and measured adverse events matter. Calling a control placebo does not automatically mean it was saline or free of every biologically active ingredient.",
+      "analysis": "The 2006 Rotarix study randomized 63,225 infants before US licensure in 2008, assessing safety and efficacy. FDA documentation explicitly identifies it as a pre-licensure placebo-controlled safety study. The oral control was a matched placebo, not an injection of saline. A safety analysis does not stop being one because a trial also evaluates efficacy.",
+      "limits": "This is not proof that every childhood vaccine has an inert-placebo trial. Some use active controls. Nor was this trial powered to exclude every rare or delayed adverse event, as subsequent intussusception surveillance illustrates.",
+      "refs": [
+        "rotarix",
+        "fda",
+        "rotarisk"
+      ]
+    },
+    {
+      "id": "controls",
+      "time": 320,
+      "title": "Must every other medicine use a placebo?",
+      "verdict": "Contradicted",
+      "summary": "Drug trials can use active controls and other designs too.",
+      "said": "He portrays vaccines as uniquely exempt from a universal placebo requirement for other medicines.",
+      "fair": "An inert control can help estimate total product-attributable risk. An active control can conceal harms that both products share. That is a real design limitation.",
+      "analysis": "ICH E10 discusses several control designs. An active comparison can answer whether a new product is better or no worse than an established one. Withholding proven care may be unethical. The correct criticism names the product, comparator, outcome and missing information.",
+      "limits": "Active-control evidence cannot automatically answer the question of vaccination versus no vaccination. Ethical arguments do not excuse poor design or inadequate surveillance.",
+      "refs": [
+        "e10",
+        "cioms"
+      ]
+    },
+    {
+      "id": "polio-trial",
+      "time": 365,
+      "title": "Was the original polio trial only about efficacy?",
+      "verdict": "Misleading",
+      "summary": "The 1954 program evaluated safety as well as efficacy; the original control was more specific than the word saline suggests.",
+      "said": "After Lex challenges him, Kennedy allows that a pre-licensure polio placebo trial may have existed but excludes it as a safety trial.",
+      "fair": "A trial does not establish complete safety forever. Later manufacturing failures and SV40 contamination show why trial results cannot replace production quality controls.",
+      "analysis": "The Francis report and the University of Michigan announcement document a pre-licensure evaluation with safety conclusions. The historical placebo was a matched culture-medium preparation. The useful question is what harms were actually monitored and with what sensitivity, rather than whether the paper has the word safety in its title.",
+      "limits": "The historical trial does not meet every modern standard and cannot rule out cancers with decades of latency. Lex's saline shorthand should also be scrutinized.",
+      "refs": [
+        "polio",
+        "umich",
+        "cdc"
+      ]
+    },
+    {
+      "id": "foia",
+      "time": 470,
+      "title": "What did the HHS lawsuit establish?",
+      "verdict": "Misleading",
+      "summary": "The publicly linked 2018 filing concerns reports to Congress, not proof that clinical trials do not exist.",
+      "said": "He describes an HHS records response as an admission that no pre-licensure safety studies existed.",
+      "fair": "A failure to locate legally required safety reports would be an accountability problem. It deserves scrutiny on its own terms.",
+      "analysis": "The 2018 stipulated order concerns biennial reports under 42 USC 300aa-27(c). No responsive records for that request does not mean there are no clinical safety studies. The Rotarix trial provides an independently checkable counterexample.",
+      "limits": "He does not specify a docket in the clip. This assessment concerns the publicly circulated 2018 filing commonly linked to the claim; a different letter would need its own review.",
+      "refs": [
+        "foia",
+        "fda"
+      ]
+    },
+    {
+      "id": "debate",
+      "time": 650,
+      "title": "Thimerosal evidence and debate performance",
+      "verdict": "Scope note",
+      "summary": "A study must examine the exposure in question. A public debate cannot substitute for that check.",
+      "said": "Later, Kennedy says Hotez sent MMR studies when the disagreement concerned thimerosal.",
+      "fair": "If that description is accurate, an MMR-only study would not directly test a thimerosal hypothesis. The private exchange is not available here to verify.",
+      "analysis": "There is direct thimerosal research. Hviid and colleagues compared thimerosal-containing and thimerosal-free versions of the same vaccine in 467,450 children, finding no autism association. That is more relevant than an MMR-only citation.",
+      "limits": "This does not verify what Hotez sent or rebut every possible thimerosal outcome. The main review covers the scientific opening through roughly eight minutes; later personal and debate claims are not comprehensively audited.",
+      "refs": [
+        "hviid"
+      ]
+    }
+  ],
+  "reviewed": "2026-10-28",
+  "scope": "Main scientific opening, approximately 00:19 to 08:15. Later discussion is included in the transcript but only selectively reviewed."
+}
