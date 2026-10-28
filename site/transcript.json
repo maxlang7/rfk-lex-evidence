@@ -1,6 +1,6 @@
 {
   "model": "google/gemini-2.5-flash",
-  "method": "OpenRouter audio transcription in 60-second chunks. Timestamps are chunk starts, not word alignment. Machine transcript, not human-verified. Opening averting checked with a second audio request; one mixed-speaker chunk labeled explicitly.",
+  "method": "OpenRouter audio transcription in 60-second chunks. Timestamps are chunk starts, not word alignment. Machine transcript, not human-verified. Opening averting checked with a second audio request; two mixed-speaker chunks labeled explicitly.",
   "segments": [
     {
       "speaker": "Lex Fridman",

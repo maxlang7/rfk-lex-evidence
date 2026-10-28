@@ -1,6 +1,6 @@
 # Is RFK Jr an antivaxxer?
 
-OpenRouter audio transcription in 60-second chunks. Timestamps are chunk starts, not word alignment. Machine transcript, not human-verified. Opening averting checked with a second audio request; one mixed-speaker chunk labeled explicitly.
+OpenRouter audio transcription in 60-second chunks. Timestamps are chunk starts, not word alignment. Machine transcript, not human-verified. Opening averting checked with a second audio request; two mixed-speaker chunks labeled explicitly.
 
 [00:00] **Lex Fridman**: You've uh talked about that the media slanders you by calling you an anti-vaxer. And uh you've said that you're not anti-vaccine, you're pro-safe vaccine. Difficult question. Can you name any vaccines that you think are good?
 

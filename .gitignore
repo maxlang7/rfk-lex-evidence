@@ -13,3 +13,5 @@ opening-check.json
 research/
 transcript-original.py
 transcribe-original.py
+qa.cjs
+qa-*.png
